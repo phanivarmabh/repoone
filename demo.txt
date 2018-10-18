@@ -7,3 +7,7 @@ class new()
 {
   set()
 }
+void main()
+{
+ new code is appended
+}
