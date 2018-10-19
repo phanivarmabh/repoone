@@ -1,3 +1,7 @@
+class engine()
+{
+ void 4_stroke()
+}
 class demo()
 {
   get()
